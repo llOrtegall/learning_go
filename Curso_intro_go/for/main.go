@@ -17,4 +17,9 @@ func main() {
 		fmt.Println(numero)
 	}
 
+	for {
+		fmt.Println("loop")
+		break
+	}
+
 }
